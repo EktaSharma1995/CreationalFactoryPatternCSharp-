@@ -8,21 +8,6 @@ namespace CreationalFactoryPattern
 {
     class Program
     {
-        //NationalBank nb = new NationalBank();
-        //CitiBank cb = new CitiBank();
-        //public void returnAskedAccount(string choice)
-        //{
-        //    if (choice.Equals("LOAN"))
-        //    {
-        //        nb.loanAccount();
-        //    }
-
-        //    else if (choice.Equals("SAVING"))
-        //    {
-        //        cb.savingAccount();
-        //    }
-        //}
-
         static void Main(string[] args)
         {
             
